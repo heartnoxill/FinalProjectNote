@@ -12,3 +12,7 @@ https://ieeexplore.ieee.org/document/8883458
 
 ** An infrastructure of multi-pollutant air quality deterioration early warning system in spark platform
 https://ieeexplore.ieee.org/document/8386595
+
+Prediction of Air Pollution through Machine Learning Approaches on the Cloud
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8606635
+

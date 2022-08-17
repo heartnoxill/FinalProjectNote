@@ -9,18 +9,6 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Scope.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "0ee7b7025fda3509",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
             "file": "Supporting research (list).md",
             "mode": "source",
             "source": false
@@ -99,11 +87,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ee7b7025fda3509",
+  "active": "c62b3ad795e692a0",
   "lastOpenFiles": [
-    "ambient air monitoring stations around Bangkok.md",
     "Supporting research (list).md",
     "Scope.md",
+    "ambient air monitoring stations around Bangkok.md",
     "README.md",
     "pricing.md",
     "data platform.md",
