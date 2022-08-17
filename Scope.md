@@ -23,3 +23,6 @@ BUT We need to study what caused air pollution first.
 https://www.silkspan.com/online/article/health/122/
 
 [[ASEAN Transboundary Haze Pollution from neighboring countries]]
+
+[[Supporting research (list)]]
+
